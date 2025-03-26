@@ -1,0 +1,7 @@
+201,Van hoc 6,An,2024,Nha xuat ban W,9784444444444,true
+202,Truyen tranh 7,Binh,2023,Nha xuat ban V,9785555555555,false
+203,Thieu nhi 8,Anh,2021,Nha xuat ban U,9786666666666,true
+204,Truyen ngan 9,Nam,2024,Nha xuat ban T,9787777777777,false
+205,Tieu thuyet 10,Quy,2008,Nha xuat ban S,9788888888888,true
+206,Truyen ngan 9,ABC,2024,Nha xuat ban T,9787777777777,false
+207,Tieu thuyet 10,abc,2025,Nha xuat ban S,9788888888888,true
